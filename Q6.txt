@@ -1,0 +1,6 @@
+a>Time Complexity: (O(n^2))
+
+b>Time Complexity: (O(n))
+
+c>This creates a binary tree of recursive calls
+    Time Complexity:(O(2^n))
